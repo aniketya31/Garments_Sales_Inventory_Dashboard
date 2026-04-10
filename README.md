@@ -30,6 +30,3 @@ This project analyzes sales and inventory data to identify patterns and improve 
 - Excel
 - Pivot Tables
 - Dashboard Design
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
